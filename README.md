@@ -52,9 +52,8 @@ a **vision-based leak detection** approach using the **ESP32-S3 Sense Camera** a
 |-------|-------------|----------|
 | Hardware | ESP32-S3 Sense | Image capture & Wi-Fi transmission |
 | AI/ML | Google Gemini API | Leak detection & bounding box generation |
-| Backend | Node.js / Python Flask (your choice) | API processing, image drawing, notifications |
-| Frontend (optional) | Flutter / Web Dashboard | User interface for alerts and image viewing |
-| Data | JSON / Firebase / MQTT | Data exchange and cloud storage |
+| Backend | Node.js | API processing, image drawing, notifications |
+| Data | JSON / MQTT | Data exchange and cloud storage |
 
 
 ## Setup & Installation
