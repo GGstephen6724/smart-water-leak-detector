@@ -91,10 +91,3 @@ a **vision-based leak detection** approach using the **ESP32-S3 Sense Camera** a
 ## LICENSE
 This projet is released under the MIT License. See LICENSE for more information.
 
----
-This README does the following:
-- ✅ Explains your full **IoT + AI pipeline** clearly.
-- ✅ Looks professional enough for a **senior project report or GitHub portfolio**.
-- ✅ Shows the technical stack (ESP32, Gemini, backend, alert system).
-- ✅ Prepares you to expand it later if you add a dashboard or mobile app.
----
